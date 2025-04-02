@@ -91,7 +91,7 @@ yarn test
 ```json
 {
   "token": "token-gerado"
-  "expiresIn": "1m"',
+  "expiresIn": "1m",
   "name": "Joe",
   "email": "joe@gmail.com"
 }
